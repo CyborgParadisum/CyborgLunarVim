@@ -10,7 +10,7 @@
 
 ## Showcase
 
-![demo3]()
-![info](https://user-images.githubusercontent.com/29136904/191624942-3d75ef87-35cf-434d-850e-3e7cd5ce2ad0.png)
+![dashboard](https://github.com/CyborgParadisum/CyborgLunarVim/blob/master/docs/assets/dashboard.png)
+![usercase](https://github.com/CyborgParadisum/CyborgLunarVim/blob/master/docs/assets/usercase.png)
 
 <!----------------------------------------------------------------------------->
