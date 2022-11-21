@@ -26,20 +26,20 @@
 
 ## TODO
 
-[] 对LunarVim的配置文件进行解释
-[] 对LunarVim层级结构进行解释
-  []  lua
-  []  config/
-  []  core/
-  []  impatient/
-  []  interface/
-  []  lsp/
-  []  utils/
-  []  bootstrap.lua
-  []  icons.lua
-  []  impatient.lua
-  []  keymappings.lua
-  []  plugin-loader.lua
-  []  plugins.lua
-  []  utils.lua
+- [ ] 对LunarVim的配置文件进行解释
+- [ ] 对LunarVim层级结构进行解释
+  - [ ]  lua
+  - [ ]  config/
+  - [ ]  core/
+  - [ ]  impatient/
+  - [ ]  interface/
+  - [ ]  lsp/
+  - [ ]  utils/
+  - [ ]  bootstrap.lua
+  - [ ]  icons.lua
+  - [ ]  impatient.lua
+  - [ ]  keymappings.lua
+  - [ ]  plugin-loader.lua
+  - [ ]  plugins.lua
+  - [ ]  utils.lua
 
